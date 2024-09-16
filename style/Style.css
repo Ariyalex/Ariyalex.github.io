@@ -69,7 +69,7 @@ header .nav-list li a {
 }
 
 
-header .nav-list li:hover a {
+/* header .nav-list li:hover a {
     color: white;
     -webkit-text-stroke: 1.15px black;
     font-weight: 750;
@@ -97,7 +97,7 @@ header .nav-list li:hover a.Contact {
     background-image: url("Image/Okita.jpg");
     background-size: cover;
     background-position: center;
-}
+} */
 
 /* add di dawah */
 main div.content {
