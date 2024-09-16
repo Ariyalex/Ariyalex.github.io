@@ -68,37 +68,6 @@ header .nav-list li a {
     transition: all .35s ease-in-out;
 }
 
-
-/* header .nav-list li:hover a {
-    color: white;
-    -webkit-text-stroke: 1.15px black;
-    font-weight: 750;
-}
-
-header .nav-list li:hover a.Home {
-    background-image: url("Image/Artoria.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-header .nav-list li:hover a.Education {
-    background-image: url("Image/Jeanne.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-header .nav-list li:hover a.Hobby {
-    background-image: url("Image/Mash.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-header .nav-list li:hover a.Contact {
-    background-image: url("Image/Okita.jpg");
-    background-size: cover;
-    background-position: center;
-} */
-
 /* add di dawah */
 main div.content {
     display: flex;
