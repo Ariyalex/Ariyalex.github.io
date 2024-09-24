@@ -172,6 +172,7 @@ div.contact .contact-container .contact-input {
     outline: none;
     background-color: #e0e0e0;
     font-family: "Mulish", sans-serif;
+    resize: none;
 }
 
 /* div.contact .contact-container .contact-input:focus {
